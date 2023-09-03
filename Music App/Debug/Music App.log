@@ -1,0 +1,9 @@
+﻿  Account.cpp
+  Album.cpp
+  Song.cpp
+  Source.cpp
+C:\Users\Batuhan\Desktop\Music App\Music App\Source.cpp(41,6): warning C4101: 'correct': unreferenced local variable
+  Generating Code...
+C:\Users\Batuhan\Desktop\Music App\Music App\Account.cpp(131): warning C4715: 'Account::search': not all control paths return a value
+C:\Users\Batuhan\Desktop\Music App\Music App\Account.cpp(259): warning C4715: 'Customer::checkBalance': not all control paths return a value
+  Music App.vcxproj -> C:\Users\Batuhan\Desktop\Music App\Debug\Music App.exe
